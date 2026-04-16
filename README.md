@@ -6,7 +6,7 @@
 
 A modern, animated portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
 
-[Live Demo](#) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/amit-haphiloni-332416346) &nbsp;&bull;&nbsp; [Email](mailto:amithaphiloni@gmail.com)
+[Live Demo](https://portfolio-haphiloni.vercel.app) &nbsp;&bull;&nbsp; [LinkedIn](https://linkedin.com/in/amit-haphiloni-332416346) &nbsp;&bull;&nbsp; [Email](mailto:amithaphiloni@gmail.com)
 
 ---
 
